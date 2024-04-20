@@ -1,7 +1,0 @@
-Pedro: Entradas Manhã - 1, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Max: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Tadeu: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Andréa: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Cásio: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Elaine: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
-Arthur: Entradas Manhã - 0, Saídas Manhã - 0, Entradas Tarde - 0, Saídas Tarde - 0
