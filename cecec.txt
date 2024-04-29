@@ -1,0 +1,35 @@
+Para criar o banco de dados, tabelas e outras estruturas necessárias, você pode seguir estes passos:
+
+    Conectar ao MySQL Server: Abra o prompt de comando ou terminal e digite o seguinte comando para se conectar ao servidor MySQL:
+
+    bash
+
+mysql -u root -p
+
+Isso solicitará a senha do usuário root do MySQL. Insira a senha quando solicitado.
+
+Criar o Banco de Dados: Depois de conectar, você pode criar o banco de dados executando o seguinte comando:
+
+sql
+
+CREATE DATABASE relogio_ponto;
+
+Isso criará um banco de dados chamado relogio_ponto. Certifique-se de que o nome do banco de dados corresponda ao que você especificou em seu script de instalação Inno Setup.
+
+Selecionar o Banco de Dados: Você precisa selecionar o banco de dados recém-criado para poder executar comandos dentro dele:
+
+sql
+
+USE relogio_ponto;
+
+Criar Tabelas e Estruturas de Banco de Dados: Agora você pode criar suas tabelas e outras estruturas de banco de dados. Se você tem um arquivo SQL contendo esses comandos (como RelogioPonto.sql), pode executá-lo diretamente:
+
+sql
+
+    SOURCE /caminho/para/RelogioPonto.sql;
+
+    Isso executará todos os comandos SQL contidos no arquivo RelogioPonto.sql, criando as tabelas e outras estruturas necessárias dentro do banco de dados relogio_ponto.
+
+    Verificar Tabelas Criadas: Você pode verificar se as tabelas foram criadas corretamente executando o comando SHOW TABLES;.
+
+Depois de seguir esses passos, seu banco de dados deve estar configurado corretamente com as tabelas e estruturas necessárias para o funcionamento do seu aplicativo. Certifique-se de ajustar os caminhos dos arquivos e os comandos conforme necessário, dependendo de sua configuração específica.
